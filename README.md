@@ -1,6 +1,6 @@
 This is FullStack Application
 Tech Stack used :
-  Thymeleaf,
+  Thymeleaf template engine,
   Bootstrap,
   Spring Boot,
   MySQL,
